@@ -11,6 +11,7 @@
   inputs.src-nim_curry-master.ref   = "refs/heads/master";
   inputs.src-nim_curry-master.owner = "zer0-star";
   inputs.src-nim_curry-master.repo  = "nim-curry";
+  inputs.src-nim_curry-master.dir   = "";
   inputs.src-nim_curry-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
