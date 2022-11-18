@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334643,
-        "narHash": "sha256-R5F2k4+c2jjpifbUqsEFVVe8S62RSzD8n7DDKPH9V7w=",
+        "lastModified": 1668748911,
+        "narHash": "sha256-/RSt2JkLPWbaLUcKa8Uzza8G4jFZFmid9zW3DgKasKk=",
         "owner": "nim-nix-pkgs",
         "repo": "nim_curry",
-        "rev": "23879104809a77fef84691ed328a57939b5ed22b",
+        "rev": "c9711c3c5e7d1a82d959360072c9f656584647c0",
         "type": "github"
       },
       "original": {
